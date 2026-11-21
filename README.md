@@ -1,4 +1,4 @@
-AiSList – Brave iOS Filters
+# AiSList – Brave iOS Filters
 
 Automatically converts the community-maintained AiSList YouTube AI-slop channel blocklist into cosmetic filters compatible with **Brave on iOS**.
 
