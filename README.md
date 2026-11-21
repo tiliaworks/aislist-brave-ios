@@ -15,9 +15,7 @@ The generated filter list hides videos from blocked YouTube channels in the mobi
 
 **Subscribe to the generated filter list:**
 
-aislist_brave.txt
-
-Replace YOUR_USERNAME with your GitHub username.
+[aislist_brave.txt](https://raw.githubusercontent.com/tiliaworks/aislist-brave-ios/main/aislist_brave.txt)
 
 ## Example
 
