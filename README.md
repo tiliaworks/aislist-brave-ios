@@ -41,6 +41,7 @@ You can also trigger an update manually through the **Actions** tab.
 ## Credits
 
 - Original blocklist: [Override92/AiSList](https://github.com/Override92/AiSList)
+
 AiSList is licensed under CC BY-NC 4.0. Please refer to the original project for licensing terms.
 
 This repository is an unofficial conversion project and is not affiliated with Brave or the AiSList maintainers.
