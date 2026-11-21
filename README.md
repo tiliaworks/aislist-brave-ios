@@ -40,20 +40,10 @@ You can also trigger an update manually through the **Actions** tab.
 
 ## Credits
 
-- Original blocklist: [Override92/AiSList](https://github.com/Override92/AiSList)
+This repository is an unofficial conversion project and is not affiliated with Brave or the AiSList maintainers.
 
 AiSList is licensed under CC BY-NC 4.0. Please refer to the original project for licensing terms.
 
-This repository is an unofficial conversion project and is not affiliated with Brave or the AiSList maintainers.
-
 ## License
 
-The original blocklist is maintained by the AiSList contributors and is licensed under CC BY-NC 4.0. Please credit AiSList and do not use the list for commercial purposes.
-
-This repository converts the original AiSList channel handles into cosmetic filters compatible with Brave Browser on iOS.
-
-The conversion script and GitHub Actions workflow are licensed under the MIT License (see LICENSE).
-
-This is an unofficial community project and is not affiliated with AiSList or Brave.
-
-If AiSList provides an official Brave iOS-compatible filter list in the future, this repository may point to that instead.
+The conversion script and workflow are provided under the MIT License. The original AiSList data retains its original license and attribution requirements.
