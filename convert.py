@@ -25,13 +25,15 @@ def main():
     for line in response.text.splitlines():
         line = line.strip()
 
+        # Ignore empty lines and comments
         if not line or line.startswith("!"):
             continue
 
-        if line.startswith("@"):
+        # Keep handles, excluding URL-encoded entries
+        if line.startswith("@") and "%" not in line:
             handles.add(line)
 
-    print(f"Found {len(handles)} channels")
+    print(f"Found {len(handles)} valid channels")
 
     filters = [
         FILTER_TEMPLATE.format(handle=handle)
@@ -42,7 +44,7 @@ def main():
         "! AiSList - Brave iOS YouTube channel blocklist\n"
         "! Source: " + SOURCE_URL + "\n"
         f"! Total channels: {len(handles)}\n\n"
-        + "\n".join(filters)
+        + "\n\n".join(filters)
         + "\n"
     )
 
