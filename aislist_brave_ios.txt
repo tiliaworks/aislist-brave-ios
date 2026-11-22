@@ -1,6 +1,6 @@
 ! AiSList - Brave iOS YouTube channel blocklist
 ! Source: https://raw.githubusercontent.com/Override92/AiSList/main/AiSList/aislist_blocklist.txt
-! Total channels: 70084
+! Total channels: 70085
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@--N4R1"]):upward(ytm-media-item)
 
@@ -44209,6 +44209,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Epochra_YT"]):upward(yt
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EpochThread1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EpochTimelaps"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@EpochZero-h6h"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Epoharium"]):upward(ytm-media-item)
 
