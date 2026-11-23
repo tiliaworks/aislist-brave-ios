@@ -1,6 +1,6 @@
 ! AiSList - Brave iOS YouTube channel blocklist
 ! Source: https://raw.githubusercontent.com/Override92/AiSList/main/AiSList/aislist_blocklist.txt
-! Total channels: 70144
+! Total channels: 70149
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@--N4R1"]):upward(ytm-media-item)
 
@@ -41389,6 +41389,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@earthsnapsX"]):upward(y
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EarthUncovered-x2"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EarthUnderSiege"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@EarthUnrevealed-v6u"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EarthUnseen11s"]):upward(ytm-media-item)
 
@@ -100020,6 +100022,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@ResetDiagnose"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@ResetHidup16"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@RESETPEDIA-u9i"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Reshamvlog-9"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@resilienciaycorazon"]):upward(ytm-media-item)
@@ -116496,6 +116500,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TechMotorShow"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@techmysteryai"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TechNana-h2r"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Technate_News1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Techne-ai"]):upward(ytm-media-item)
@@ -130958,6 +130964,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@VESPERA_NOCTIS"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@VesperaNoctis"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@VesperquillStories"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@vessiehistory"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Vestige-exp"]):upward(ytm-media-item)
@@ -132585,6 +132593,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@VoicesofKorriban"]):upw
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@voicesofmidgard"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@VoicesofMyth-t8f"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@VoicesofPurpose-v7r"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@VoicesofSophia-us"]):upward(ytm-media-item)
 
