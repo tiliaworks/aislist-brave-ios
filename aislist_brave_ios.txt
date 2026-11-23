@@ -1,6 +1,6 @@
 ! AiSList - Brave iOS YouTube channel blocklist
 ! Source: https://raw.githubusercontent.com/Override92/AiSList/main/AiSList/aislist_blocklist.txt
-! Total channels: 70149
+! Total channels: 70216
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@--N4R1"]):upward(ytm-media-item)
 
@@ -11400,6 +11400,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AISleepsatisfyasmr"]):u
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AisleScout1"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@AisleVerdict"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AISliip"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AislingFolk"]):upward(ytm-media-item)
@@ -15610,6 +15612,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AncientHumanFiles-t5r"]
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AncientHumanFiles98"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@AncientHumanResearch"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AncientHumans-l9l"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AncientHumans0"]):upward(ytm-media-item)
@@ -19338,6 +19342,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoAddicts-0"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@autoalertau"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoAmbitionTV"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@autobuan"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@autobuzz99"]):upward(ytm-media-item)
@@ -19359,6 +19365,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoCoverStudio"]):upwa
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoCraftAI-r1k"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoCraftUSA-b8h"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Autodecoded-c"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AutoDecoded-t2n"]):upward(ytm-media-item)
 
@@ -19717,6 +19725,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AxelineOfficial"]):upwa
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@axelstory0"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AxenAncientTV"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@AxenCoolUS"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Axend-j1n"]):upward(ytm-media-item)
 
@@ -21460,6 +21470,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@behindukpolitics"]):upw
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@behindwalls1"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@behindzscenes"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Beholdify"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@beinahegenialtv"]):upward(ytm-media-item)
@@ -21647,6 +21659,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Bente_pro"]):upward(ytm
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BentinhoExplica"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@bentrinibago5309"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Benwithanimals"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BenzouManhwa"]):upward(ytm-media-item)
 
@@ -21963,6 +21977,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@BeyondBeliefLists"]):up
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BeyondBetrayalUS"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BeyondBible88"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BeyondBiography357"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BeyondBlackboardTelugu"]):upward(ytm-media-item)
 
@@ -23635,6 +23651,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@BlackoutHaven"]):upward
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BlackoutRadioTV"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BlackoutRave"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BlackoutSurvival_Guide"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@blackoutsurvivallab-k9l"]):upward(ytm-media-item)
 
@@ -25692,7 +25710,11 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLee.MartialLegacy"
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLee.TheDragonsLegacy"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Brucelee_archieves"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeChronicles-1"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeChronicles-q6i"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeClash"]):upward(ytm-media-item)
 
@@ -25703,6 +25725,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeEncounters"]):u
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeHiddenStories365"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeHiddenTrue"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeLegacy-p7w"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeelegacyTikTak"]):upward(ytm-media-item)
 
@@ -25729,6 +25753,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@bruceleeternal"]):upwar
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeTheDragonsChronicles"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeTheHiddenLegacy"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BruceLeeTheLegacy"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@bruceleetheuntoldlegacy-n9y"]):upward(ytm-media-item)
 
@@ -26309,6 +26335,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@butwhyandrew"]):upward(
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BuyBye972"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Buyer-Guide-Buyer-Guide"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@BuyerExposed"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@BuyingAdvice42"]):upward(ytm-media-item)
 
@@ -26913,6 +26941,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@CanadangerousAI"]):upwa
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@canadanostalgiakitchen"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@CanadaPowerShift-o9s"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@CanadaProductWatch"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@CanadaPropertyWatch"]):upward(ytm-media-item)
 
@@ -39774,6 +39804,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@DramaHOA-u5v"]):upward(
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@dramaholic-s7e"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@dramahomeproductions"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Dramahoneyveil"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@DramaHub-0123"]):upward(ytm-media-item)
@@ -43314,6 +43346,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@EmiliaRomanceLibrary"])
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EmiLiMusic1"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Emily-Johnson-n"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@emily-lucky7"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@emily.yanora"]):upward(ytm-media-item)
@@ -44955,6 +44989,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@EverydayBackfire"]):upw
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EverydayBuddhism2"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@EverydayDadChronicles"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@EverydayEconomyy"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@everydayexplainer-yt"]):upward(ytm-media-item)
 
@@ -49309,6 +49345,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Four-Riders-of-The-Apoc
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@FourDollarCyclone"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@FourPetalPlaylist"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@FourWheelStories1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@fover-q2b"]):upward(ytm-media-item)
 
@@ -54730,6 +54768,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Grandmasfolktalesandsto
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@GrandmasGhibliKitchen"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@GrandmasGroceryCheck"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@GrandmasLostHomefront"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@GrandmasOldSecret"]):upward(ytm-media-item)
@@ -55454,6 +55494,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@gurudevToon"]):upward(y
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Gurujamfocus"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@GusAndJuneCook"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@GusArtmanAI"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@GusHarlanRuralDefense"]):upward(ytm-media-item)
@@ -55803,6 +55845,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@hananbar8"]):upward(ytm
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@hananstalent9142"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@HanaQGhibli"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@HanasCloset"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@HanasLittleHouses"]):upward(ytm-media-item)
 
@@ -60734,6 +60778,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@HomeroomFiles"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@HomeSafetyReport"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Homesonwheel"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@homestead-w9v"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Homestead-Wellness-h1p"]):upward(ytm-media-item)
@@ -64834,6 +64880,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Jack__ai-62"]):upward(y
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Jack_AT"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Jack_Breaux"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@jackdavis42"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@JackExplore-x8d"]):upward(ytm-media-item)
@@ -65309,6 +65357,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@jastiwale18"]):upward(y
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@JavedAbshar3131"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@JavierHistoriasAudio"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@JavierMorales-h7z"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@javilopen"]):upward(ytm-media-item)
 
@@ -66291,6 +66341,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@JohnHomeSafety"]):upwar
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@JohnJamede"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@johnjanuary7249"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@JohnKo-MoneyStories"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@JohnLazyInvestor"]):upward(ytm-media-item)
 
@@ -67912,6 +67964,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@KathaMindAI"]):upward(y
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@KathaVibeStudio"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@katherinefriedrich1981"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@KathleenJudie"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@kAthrsIs"]):upward(ytm-media-item)
@@ -67992,6 +68046,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Kaye.creates"]):upward(
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@kaye_creative"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Kayla-y5p4w"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@kayla_manuel"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@kayladavisstudio"]):upward(ytm-media-item)
@@ -68017,6 +68073,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Kazu-en"]):upward(ytm-m
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@KazukiMangaRecap222"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@kazura70swingneck"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@KazutheCarGuy"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@KażdaPostać"]):upward(ytm-media-item)
 
@@ -71232,6 +71290,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@LegacyRapVault"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LegacyRidess"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@LegacyRushTV"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LegacySwitchStories"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LegacyTales3"]):upward(ytm-media-item)
@@ -72269,6 +72329,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@LindaCarolineIswandi"])
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LindaHartwell1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LindaMaynes07"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@lindaogarciaa"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LindaStone-Epic"]):upward(ytm-media-item)
 
@@ -73351,6 +73413,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@LoreTone1"]):upward(ytm
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@loretrip"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LorettaCooks"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Lorettacooks1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LorettasTouch"]):upward(ytm-media-item)
 
@@ -74602,6 +74666,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Luxurybeats-t6s"]):upwa
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LuxuryBrands_gfyjh"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@luxurycarmodelreview"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@LuxuryCars-x9v"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@luxurycarsreview-f8z"]):upward(ytm-media-item)
@@ -75165,6 +75231,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaggieHollowayOficial"]
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaggieModernSurvivor"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaggieReedRomanceRealm"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaggiesGoodSense"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaggiStupyDuggi"]):upward(ytm-media-item)
 
@@ -76398,6 +76466,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@MarkTheAIChef"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MarktwissenDE"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@marktyler-g4n"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@markus-light"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Markus2.00"]):upward(ytm-media-item)
@@ -76483,6 +76553,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@MartinAIArt"]):upward(y
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MartinClips-g4k"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@martindecoder"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@MartinEllsworth"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MartinHaleTalks"]):upward(ytm-media-item)
 
@@ -76767,6 +76839,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Maryamshah-m9y"]):upwar
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Maryamtools"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaryannChioma-i7w"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaryKowalskiCooks"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MaryLabs322"]):upward(ytm-media-item)
 
@@ -78903,6 +78977,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Michelle-r4l8y"]):upwar
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@michelle.evelin49"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@michellehackler0807"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@MichelleMejia-n3p"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MichelleMiller-m6b"]):upward(ytm-media-item)
 
@@ -82476,6 +82552,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@MotorUnboxAI-w6x"]):upw
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MotorUntold1"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@MotorVanta-o1n"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MotorVibe_Talks"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@MotorXplain99"]):upward(ytm-media-item)
@@ -85504,6 +85582,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@NatureTimelapseai-p2j"]
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@naturetoindustry"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@NatureTookOver"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@NatureTrip3"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@NatureVerseAI-0"]):upward(ytm-media-item)
@@ -85761,6 +85841,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@NeighborhoodTaleYT"]):u
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Neighborsfromhell-k3b4k"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@NeighborWarsYT"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@NeilBeaumont2"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Neilnex"]):upward(ytm-media-item)
 
@@ -89782,6 +89864,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@OldStreetJazz"]):upward
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@oldtechdynasty"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@OldTexasRoads"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OldThingsFactory"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OldTimeCowboyStories"]):upward(ytm-media-item)
@@ -90350,6 +90434,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@OnPlanetB"]):upward(ytm
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OnPromptAds"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@OntarioBackRoads"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OnTheMoveWithTirkeys"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@ontherecordcam"]):upward(ytm-media-item)
@@ -90435,6 +90521,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Openeyesmedia-x1p"]):up
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OpenReason"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OpenRoadFolkMusic"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@OpenRoadReviews-r2d"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@OpenSignalSoundAtlas"]):upward(ytm-media-item)
 
@@ -102254,6 +102342,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Rosmita-adu"]):upward(y
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@rosreyez"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@RossHensley-f4d"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@rossjose-q8g"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@rosyledua"]):upward(ytm-media-item)
@@ -103425,6 +103515,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@SailSecrets"]):upward(y
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SailUnscrolled"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Saimnaseer9070"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@SaimNawaz-t1e"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SAIMOON-120k"]):upward(ytm-media-item)
 
@@ -105748,6 +105840,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@serenityaiasmr"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SerenityArt-Official"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@SerenityCarter9"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SerenityEllipse"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SerenityPanFlute"]):upward(ytm-media-item)
@@ -105759,6 +105853,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@SerenTale-v7b"]):upward
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@sergbangold1173"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SergeantDaleWhitfield"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@SergeantFrankDolan"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SergeantMills"]):upward(ytm-media-item)
 
@@ -111740,6 +111836,14 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenEduard30"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@stevenlawsfilms"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenSeagalClash"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenSeagalConfrontation"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenSeagalEnfrentamiento"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenSeagalKampf"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@stevensongtalks"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@StevenTalleyYT"]):upward(ytm-media-item)
@@ -114041,6 +114145,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@supersweetstoryAi"]):up
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SuperWave1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SupeshDhote8308"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@SuppersWithOtis"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SupposeIfYou"]):upward(ytm-media-item)
 
@@ -118698,6 +118804,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheBrotherhood-t4s"]):u
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheBrownieBarByPREETHI"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheBruceLeeChronicles"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheBruceLeeFiles-m8x"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@theBrutalReviews"]):upward(ytm-media-item)
@@ -120212,6 +120320,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheGritShift"]):upward(
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheGrittyPast"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheGroceryTrap"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheGrooveSource"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Thegrowthedge-p5w"]):upward(ytm-media-item)
@@ -120996,6 +121106,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLastWitnessEN"]):upw
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLateBuild"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLateRealization"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLaughingCow_1"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLauraEffectYt"]):upward(ytm-media-item)
@@ -121019,6 +121131,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@theLearnUp"]):upward(yt
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@theledgerwithduarte"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLegacyofBruceLee"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheLegacyofElvisPresley"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@thelegacyofpattonww2"]):upward(ytm-media-item)
 
@@ -121249,6 +121363,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheMarketPulseLive"]):u
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheMarketSurvivor"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheMarkupMemo"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@themarkupreport"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheMarkWisdom_Fan"]):upward(ytm-media-item)
 
@@ -122872,6 +122988,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheSoundSmithy"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@thesoundsofwhisper"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheSouthernHome"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@thesowers-band"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@thespacebetween1187"]):upward(ytm-media-item)
@@ -123266,6 +123384,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheTouristTime7"]):upwa
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheTowerBrief"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheToyotaWhisperer"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheTrace-23"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheTranceSymphony"]):upward(ytm-media-item)
@@ -123513,6 +123633,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@thevengeancevault-v8u"]
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheVerdict12"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheVerdictLab01"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheVerdictRoom-z1b"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TheVersedMastersofMusic"]):upward(ytm-media-item)
 
@@ -125956,6 +126078,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@tomelinamentor"]):upwar
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TomesoftheWest"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@TomGallagherr"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TomiTh-u3m"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@tomjung7"]):upward(ytm-media-item)
@@ -127027,6 +127151,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@TribalEssenceMusic"]):u
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TribalfacesUSA"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Tribalhorizon-d3d"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Tribalix"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@TribalRhythmJazz"]):upward(ytm-media-item)
 
@@ -128451,6 +128577,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@UncleKenjiJapan"]):upwa
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@UncleL33"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@UncLeonAfterDark"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@uncleronniecooking"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@UncleSamAfricanFolktales"]):upward(ytm-media-item)
 
@@ -130051,6 +130179,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@VanessasHOA"]):upward(y
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@VANGUARD-95-OPS"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@VANGUARD-w2n"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@VanguardEngineHQ"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@vanhoile-b5g"]):upward(ytm-media-item)
 
@@ -138306,6 +138436,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@YukiCookieDoitsu"]):upw
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@yukighibli-k4y"]):upward(ytm-media-item)
 
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Yukijapanesemethod"]):upward(ytm-media-item)
+
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@YukiWatanabe-t2b"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@YulaVisuals"]):upward(ytm-media-item)
@@ -138357,6 +138489,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@Yunowha"]):upward(ytm-m
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@YunSeolGwon"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@YunTing-EN"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@Yunus-w1h2r"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@YunZhongBaiHe"]):upward(ytm-media-item)
 
