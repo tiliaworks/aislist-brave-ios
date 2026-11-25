@@ -1,6 +1,6 @@
 ! AiSList - Brave iOS YouTube channel blocklist
 ! Source: https://raw.githubusercontent.com/Override92/AiSList/main/AiSList/aislist_blocklist.txt
-! Total channels: 70249
+! Total channels: 70252
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@--N4R1"]):upward(ytm-media-item)
 
@@ -18825,6 +18825,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@AtharvavedaYT"]):upward
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@athedoorOfficial"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@AtheeqAIStory"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@atheistperspective-z5z"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Athena_Vesperia"]):upward(ytm-media-item)
 
@@ -40351,6 +40353,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@DreamRoomSleep"]):upwar
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Dreams2vid"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Dreams_2_Destiny"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@dreams_little_world"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@DreamSatisfyAI"]):upward(ytm-media-item)
 
@@ -103567,6 +103571,8 @@ m.youtube.com##ytm-media-item a:not([class]):is([href="/@SAIMOON-120k"]):upward(
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SaimunNahar-s4t"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@SaintRampalJiMaharaj"]):upward(ytm-media-item)
+
+m.youtube.com##ytm-media-item a:not([class]):is([href="/@SaintRetrievers"]):upward(ytm-media-item)
 
 m.youtube.com##ytm-media-item a:not([class]):is([href="/@Saintrixfilms"]):upward(ytm-media-item)
 
